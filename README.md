@@ -34,7 +34,9 @@ Note that it will download EVERYTHING if you let it, so use at your own discreti
 
 
 ```url``` - the url to scrape. 
+
 ```url -o``` - the flag o for only, download *only* what you tell it to from the url. (html or css as of first release)
+
 ```location``` - where to download files to. i recommend CDing to the repo and creating a folder there first. Or create a folder if you downloaded the script on its own.
 
 ----
