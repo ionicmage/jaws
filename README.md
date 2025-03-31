@@ -6,6 +6,10 @@
 
 ----
 
+Release #1 estimated April or May of 2025
+
+----
+
 JAWS is an in-depth web scraper written in Python, with the capability to pull HTML, CSS, source data, embedded files, and other website data. 
 
 Currently in Alpha, the script is only able to pull HTML and embedded files using various python packages.
