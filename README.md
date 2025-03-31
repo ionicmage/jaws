@@ -2,6 +2,8 @@
 
 ```Just Another Web Scraper```
 
+![Static Badge](https://img.shields.io/badge/Read_The_Docs!-red)
+
 ----
 
 JAWS is an in-depth web scraper written in Python, with the capability to pull HTML, CSS, source data, embedded files, and other website data. 
