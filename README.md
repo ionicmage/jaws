@@ -2,7 +2,7 @@
 
 ```Just Another Web Scraper```
 
-![Static Badge](https://img.shields.io/badge/Read_The_Docs!-red)
+![Static Badge](https://img.shields.io/badge/Read_The_Docs-docs.ionicmage.com!-red)
 
 ----
 
